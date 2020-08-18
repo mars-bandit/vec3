@@ -1,0 +1,19 @@
+{
+  "name": "@arrgh/vec3",
+  "version": "0.1.1",
+  "description": "TypeScript 3D Vector library based on iterators and arrays, uncompiled, use \"moduleResolution\": \"node\".",
+  "files": [
+    "package.json",
+    "index.ts",
+    "LICENSE",
+    "README.md"
+  ],
+  "keywords": [
+    "vector",
+    "linear algebra",
+    "game",
+    "physic"
+  ],
+  "author": "Youness BELFKIH <blfunex@gmail.com>",
+  "license": "MIT"
+}
