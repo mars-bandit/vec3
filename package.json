@@ -2,6 +2,7 @@
   "name": "@arrgh/vec3",
   "version": "0.1.1",
   "description": "TypeScript 3D Vector library based on iterators and arrays, uncompiled, use \"moduleResolution\": \"node\".",
+  "repository": "https://github.com/mars-bandit/vec3",
   "files": [
     "package.json",
     "index.ts",
